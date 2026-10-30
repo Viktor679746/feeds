@@ -1,49 +1,59 @@
 <rss xmlns:g="http://base.google.com/ns/1.0">
 <channel date="2026-10-30 10:09">
 <title>RIOn</title>
-<item>
-<g:id>87122</g:id>
-<g:article>511001</g:article>
+ <item>
+<g:id>7545</g:id>
+<g:article>3000</g:article>
 <g:category>1</g:category>
-<g:brand>Tom.m</g:brand>
-<g:title>Черевики осінні 51100 для дівчаток рожеві. Розмір 23</g:title>
-<g:title_ru>Ботинки осенние 51100 для девочек розовые. Размер 23</g:title_ru>
-<g:price>1198</g:price>
-<g:sale_price>1089</g:sale_price>
-<g:size>23</g:size>
-<g:gender_sap>Девочки</g:gender_sap>
-<g:country>Китай</g:country>
+<g:brand>TOPITOP</g:brand>
+<g:title>Черевики зимові TOPITOP 3000 для хлопчиків чорні. Розмір 36</g:title>
+<g:title_ru>Ботинки зимние TOPITOP 3000 для мальчиков черные. Размер 36</g:title_ru>
+<g:price>4358</g:price>
+<g:sale_price>3961</g:sale_price>
+<g:size>36</g:size>
+<g:gender_sap>Мальчики</g:gender_sap>
+<g:country>Турция</g:country>
 <g:season>Осінь-Зима</g:season>
 <g:good_type>Черевики та чоботи</g:good_type>
-<g:material>Екошкіра</g:material>
-<g:insole_material>Байка</g:insole_material>
-<g:lining_material>Байка</g:lining_material>
-<g:color>Рожевий</g:color>
-<g:gtin>22300000871201</g:gtin>
+<g:material>Шкіра</g:material>
+<g:insole_material>Хутро</g:insole_material>
+<g:lining_material>Хутро</g:lining_material>
+<g:color>Чорний</g:color>
+<g:gtin>2360000075450</g:gtin>
 <g:podvid>Черевики</g:podvid>
-<g:image_link>https://rion.com.ua/i/?48/8712/-51100_big.jpg</g:image_link>
-<g:size_chart_code>m8712</g:size_chart_code>
+<g:image_link>https://rion.com.ua/i/?1/20/7545/TOPITOP-3000_big.jpg</g:image_link>
+<g:image_link>https://rion.com.ua/i/?1/20/7545/TOPITOP-3000_big.1.jpg</g:image_link>
+<g:image_link>https://rion.com.ua/i/?1/20/7545/TOPITOP-3000_big.2.jpg</g:image_link>
+<g:size_chart_code>m7545</g:size_chart_code>
 <g:description_ru>
 <![CDATA[ 
 Размерная сетка (длина внутри обуви): 
-22р. - 140мм; 
-23р. - 147мм; 
-24р. - 154мм; 
-25р. - 160мм; 
-26р. - 166мм; 
-27р. - 173мм; 
+31р. - 197мм; 
+32р. - 204мм; 
+33р. - 211мм; 
+34р. - 218мм; 
+35р. - 224мм; 
+36р. - 230мм; 
+37р. - 237мм; 
+38р. - 244мм; 
+39р. - 251мм; 
+40р. - 258мм; 
 * Возможна погрешность измерений длины внутри обуви в пределах +/-2мм в зависимости от метода измерений.
  ]]>
 </g:description_ru>
 <g:description>
 <![CDATA[ 
 Розмірна сітка (довжина всередині взуття): 
-22р. - 140мм; 
-23р. - 147мм; 
-24р. - 154мм; 
-25р. - 160мм; 
-26р. - 166мм; 
-27р. - 173мм; 
+31р. - 197мм; 
+32р. - 204мм; 
+33р. - 211мм; 
+34р. - 218мм; 
+35р. - 224мм; 
+36р. - 230мм; 
+37р. - 237мм; 
+38р. - 244мм; 
+39р. - 251мм; 
+40р. - 258мм; 
 * Можлива похибка вимірювань довжини всередині взуття в межах +/-2мм в залежності від методу вимірювання.
  ]]>
 </g:description>
@@ -51,347 +61,63 @@
 <g:quantity>1</g:quantity>
 </item>
 <item>
-<g:id>87122</g:id>
-<g:article>511001</g:article>
+<g:id>7546-0</g:id>
+<g:article>3000</g:article>
 <g:category>1</g:category>
-<g:brand>Tom.m</g:brand>
-<g:title>Черевики осінні 51100 для дівчаток рожеві. Розмір 24</g:title>
-<g:title_ru>Ботинки осенние 51100 для девочек розовые. Размер 24</g:title_ru>
-<g:price>1198</g:price>
-<g:sale_price>1089</g:sale_price>
-<g:size>24</g:size>
-<g:gender_sap>Девочки</g:gender_sap>
-<g:country>Китай</g:country>
+<g:brand>TOPITOP</g:brand>
+<g:title>Черевики зимові TOPITOP 3000 для хлопчиків синьо-бежеві, нубук. Розмір 31</g:title>
+<g:title_ru>Ботинки зимние TOPITOP 3000 для мальчиков сине-бежевые, нубук. Размер 31</g:title_ru>
+<g:price>4358</g:price>
+<g:sale_price>3961</g:sale_price>
+<g:size>31</g:size>
+<g:gender_sap>Мальчики</g:gender_sap>
+<g:country>Турция</g:country>
 <g:season>Осінь-Зима</g:season>
 <g:good_type>Черевики та чоботи</g:good_type>
-<g:material>Екошкіра</g:material>
-<g:insole_material>Байка</g:insole_material>
-<g:lining_material>Байка</g:lining_material>
-<g:color>Рожевий</g:color>
-<g:gtin>22400000871201</g:gtin>
+<g:material>Нубук</g:material>
+<g:insole_material>Шкіра</g:insole_material>
+<g:lining_material>Шкіра</g:lining_material>
+<g:color>Синій</g:color>
+<g:gtin>2310000075460</g:gtin>
 <g:podvid>Черевики</g:podvid>
-<g:image_link>https://rion.com.ua/i/?48/8712/-51100_big.jpg</g:image_link>
-<g:size_chart_code>m8712</g:size_chart_code>
+<g:image_link>https://rion.com.ua/i/?1/20/7546/TOPITOP-3000_big.jpg</g:image_link>
+<g:image_link>https://rion.com.ua/i/?1/20/7546/TOPITOP-3000_big.1.jpg</g:image_link>
+<g:image_link>https://rion.com.ua/i/?1/20/7546/TOPITOP-3000_big.2.jpg</g:image_link>
+<g:size_chart_code>m7546</g:size_chart_code>
 <g:description_ru>
 <![CDATA[ 
 Размерная сетка (длина внутри обуви): 
-22р. - 140мм; 
-23р. - 147мм; 
-24р. - 154мм; 
-25р. - 160мм; 
-26р. - 166мм; 
-27р. - 173мм; 
+31р. - 197мм; 
+32р. - 204мм; 
+33р. - 211мм; 
+34р. - 218мм; 
+35р. - 224мм; 
+36р. - 230мм; 
+37р. - 237мм; 
+38р. - 244мм; 
+39р. - 251мм; 
+40р. - 258мм; 
 * Возможна погрешность измерений длины внутри обуви в пределах +/-2мм в зависимости от метода измерений.
  ]]>
 </g:description_ru>
 <g:description>
 <![CDATA[ 
 Розмірна сітка (довжина всередині взуття): 
-22р. - 140мм; 
-23р. - 147мм; 
-24р. - 154мм; 
-25р. - 160мм; 
-26р. - 166мм; 
-27р. - 173мм; 
+31р. - 197мм; 
+32р. - 204мм; 
+33р. - 211мм; 
+34р. - 218мм; 
+35р. - 224мм; 
+36р. - 230мм; 
+37р. - 237мм; 
+38р. - 244мм; 
+39р. - 251мм; 
+40р. - 258мм; 
 * Можлива похибка вимірювань довжини всередині взуття в межах +/-2мм в залежності від методу вимірювання.
  ]]>
 </g:description>
 <g:group>Взуття</g:group>
 <g:quantity>1</g:quantity>
 </item>
-<item>
-<g:id>871322</g:id>
-<g:article>6012811</g:article>
-<g:category>1</g:category>
-<g:brand>Tom.m</g:brand>
-<g:title>Черевики осінні 60128 для дівчаток фіолетові. Розмір 25</g:title>
-<g:title_ru>Ботинки осенние 60128 для девочек фиолетовые. Размер 25</g:title_ru>
-<g:price>1392</g:price>
-<g:sale_price>1265</g:sale_price>
-<g:size>25</g:size>
-<g:gender_sap>Девочки</g:gender_sap>
-<g:country>Китай</g:country>
-<g:season>Осінь-Зима</g:season>
-<g:good_type>Черевики та чоботи</g:good_type>
-<g:material>Екошкіра</g:material>
-<g:insole_material>Байка</g:insole_material>
-<g:lining_material>Байка</g:lining_material>
-<g:color>Фіолетовий</g:color>
-<g:gtin>22500000871301</g:gtin>
-<g:podvid>Черевики</g:podvid>
-<g:image_link>https://rion.com.ua/i/?78/8713/-60128_big.jpg</g:image_link>
-<g:size_chart_code>m8713</g:size_chart_code>
-<g:description_ru>
-<![CDATA[ 
-Размерная сетка (длина внутри обуви): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Возможна погрешность измерений длины внутри обуви в пределах +/-2мм в зависимости от метода измерений.
- ]]>
-</g:description_ru>
-<g:description>
-<![CDATA[ 
-Розмірна сітка (довжина всередині взуття): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Можлива похибка вимірювань довжини всередині взуття в межах +/-2мм в залежності від методу вимірювання.
- ]]>
-</g:description>
-<g:group>Взуття</g:group>
-<g:quantity>1</g:quantity>
-</item>
-<item>
-<g:id>871322</g:id>
-<g:article>601282</g:article>
-<g:category>1</g:category>
-<g:brand>Tom.m</g:brand>
-<g:title>Черевики осінні 60128 для дівчаток фіолетові. Розмір 26</g:title>
-<g:title_ru>Ботинки осенние 60128 для девочек фиолетовые. Размер 26</g:title_ru>
-<g:price>1392</g:price>
-<g:sale_price>1265</g:sale_price>
-<g:size>26</g:size>
-<g:gender_sap>Девочки</g:gender_sap>
-<g:country>Китай</g:country>
-<g:season>Осінь-Зима</g:season>
-<g:good_type>Черевики та чоботи</g:good_type>
-<g:material>Екошкіра</g:material>
-<g:insole_material>Байка</g:insole_material>
-<g:lining_material>Байка</g:lining_material>
-<g:color>Фіолетовий</g:color>
-<g:gtin>22600000871301</g:gtin>
-<g:podvid>Черевики</g:podvid>
-<g:image_link>https://rion.com.ua/i/?78/8713/-60128_big.jpg</g:image_link>
-<g:size_chart_code>m8713</g:size_chart_code>
-<g:description_ru>
-<![CDATA[ 
-Размерная сетка (длина внутри обуви): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Возможна погрешность измерений длины внутри обуви в пределах +/-2мм в зависимости от метода измерений.
- ]]>
-</g:description_ru>
-<g:description>
-<![CDATA[ 
-Розмірна сітка (довжина всередині взуття): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Можлива похибка вимірювань довжини всередині взуття в межах +/-2мм в залежності від методу вимірювання.
- ]]>
-</g:description>
-<g:group>Взуття</g:group>
-<g:quantity>1</g:quantity>
-</item>
-<item>
-<<g:id>871322</g:id>
-<g:article>601218</g:article>
-<g:category>1</g:category>
-<g:brand>Tom.m</g:brand>
-<g:title>Черевики осінні 60128 для дівчаток фіолетові. Розмір 27</g:title>
-<g:title_ru>Ботинки осенние 60128 для девочек фиолетовые. Размер 27</g:title_ru>
-<g:price>1392</g:price>
-<g:sale_price>1265</g:sale_price>
-<g:size>27</g:size>
-<g:gender_sap>Девочки</g:gender_sap>
-<g:country>Китай</g:country>
-<g:season>Осінь-Зима</g:season>
-<g:good_type>Черевики та чоботи</g:good_type>
-<g:material>Екошкіра</g:material>
-<g:insole_material>Байка</g:insole_material>
-<g:lining_material>Байка</g:lining_material>
-<g:color>Фіолетовий</g:color>
-<g:gtin>22700000871301</g:gtin>
-<g:podvid>Черевики</g:podvid>
-<g:image_link>https://rion.com.ua/i/?78/8713/-60128_big.jpg</g:image_link>
-<g:size_chart_code>m8713</g:size_chart_code>
-<g:description_ru>
-<![CDATA[ 
-Размерная сетка (длина внутри обуви): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Возможна погрешность измерений длины внутри обуви в пределах +/-2мм в зависимости от метода измерений.
- ]]>
-</g:description_ru>
-<g:description>
-<![CDATA[ 
-Розмірна сітка (довжина всередині взуття): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Можлива похибка вимірювань довжини всередині взуття в межах +/-2мм в залежності від методу вимірювання.
- ]]>
-</g:description>
-<g:group>Взуття</g:group>
-<g:quantity>1</g:quantity>
-</item>
-<item>
-<g:id>871322</g:id>
-<g:article>601281</g:article>
-<g:category>1</g:category>
-<g:brand>Tom.m</g:brand>
-<g:title>Черевики осінні 60128 для дівчаток фіолетові. Розмір 25</g:title>
-<g:title_ru>Ботинки осенние 60128 для девочек фиолетовые. Размер 25</g:title_ru>
-<g:price>1392</g:price>
-<g:sale_price>1265</g:sale_price>
-<g:size>25</g:size>
-<g:gender_sap>Девочки</g:gender_sap>
-<g:country>Китай</g:country>
-<g:season>Осінь-Зима</g:season>
-<g:good_type>Черевики та чоботи</g:good_type>
-<g:material>Екошкіра</g:material>
-<g:insole_material>Байка</g:insole_material>
-<g:lining_material>Байка</g:lining_material>
-<g:color>Фіолетовий</g:color>
-<g:gtin>22500000871310</g:gtin>
-<g:podvid>Черевики</g:podvid>
-<g:image_link>https://rion.com.ua/i/?78/8713/-60128_big.jpg</g:image_link>
-<g:size_chart_code>m8713</g:size_chart_code>
-<g:description_ru>
-<![CDATA[ 
-Размерная сетка (длина внутри обуви): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Возможна погрешность измерений длины внутри обуви в пределах +/-2мм в зависимости от метода измерений.
- ]]>
-</g:description_ru>
-<g:description>
-<![CDATA[ 
-Розмірна сітка (довжина всередині взуття): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Можлива похибка вимірювань довжини всередині взуття в межах +/-2мм в залежності від методу вимірювання.
- ]]>
-</g:description>
-<g:group>Взуття</g:group>
-<g:quantity>1</g:quantity>
-</item>
-<item>
-<g:id>871322</g:id>
-<g:article>601218</g:article>
-<g:category>1</g:category>
-<g:brand>Tom.m</g:brand>
-<g:title>Черевики осінні 60128 для дівчаток фіолетові. Розмір 26</g:title>
-<g:title_ru>Ботинки осенние 60128 для девочек фиолетовые. Размер 26</g:title_ru>
-<g:price>1392</g:price>
-<g:sale_price>1265</g:sale_price>
-<g:size>26</g:size>
-<g:gender_sap>Девочки</g:gender_sap>
-<g:country>Китай</g:country>
-<g:season>Осінь-Зима</g:season>
-<g:good_type>Черевики та чоботи</g:good_type>
-<g:material>Екошкіра</g:material>
-<g:insole_material>Байка</g:insole_material>
-<g:lining_material>Байка</g:lining_material>
-<g:color>Фіолетовий</g:color>
-<g:gtin>22600000871301</g:gtin>
-<g:podvid>Черевики</g:podvid>
-<g:image_link>https://rion.com.ua/i/?78/8713/-60128_big.jpg</g:image_link>
-<g:size_chart_code>m8713</g:size_chart_code>
-<g:description_ru>
-<![CDATA[ 
-Размерная сетка (длина внутри обуви): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Возможна погрешность измерений длины внутри обуви в пределах +/-2мм в зависимости от метода измерений.
- ]]>
-</g:description_ru>
-<g:description>
-<![CDATA[ 
-Розмірна сітка (довжина всередині взуття): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Можлива похибка вимірювань довжини всередині взуття в межах +/-2мм в залежності від методу вимірювання.
- ]]>
-</g:description>
-<g:group>Взуття</g:group>
-<g:quantity>1</g:quantity>
-</item>
-<item>
-<g:id>871322</g:id>
-<g:article>601282</g:article>
-<g:category>1</g:category>
-<g:brand>Tom.m</g:brand>
-<g:title>Черевики осінні 60128 для дівчаток фіолетові. Розмір 27</g:title>
-<g:title_ru>Ботинки осенние 60128 для девочек фиолетовые. Размер 27</g:title_ru>
-<g:price>1392</g:price>
-<g:sale_price>1265</g:sale_price>
-<g:size>27</g:size>
-<g:gender_sap>Девочки</g:gender_sap>
-<g:country>Китай</g:country>
-<g:season>Осінь-Зима</g:season>
-<g:good_type>Черевики та чоботи</g:good_type>
-<g:material>Екошкіра</g:material>
-<g:insole_material>Байка</g:insole_material>
-<g:lining_material>Байка</g:lining_material>
-<g:color>Фіолетовий</g:color>
-<g:gtin>22700000871302</g:gtin>
-<g:podvid>Черевики</g:podvid>
-<g:image_link>https://rion.com.ua/i/?78/8713/-60128_big.jpg</g:image_link>
-<g:size_chart_code>m8713</g:size_chart_code>
-<g:description_ru>
-<![CDATA[ 
-Размерная сетка (длина внутри обуви): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Возможна погрешность измерений длины внутри обуви в пределах +/-2мм в зависимости от метода измерений.
- ]]>
-</g:description_ru>
-<g:description>
-<![CDATA[ 
-Розмірна сітка (довжина всередині взуття): 
-23р. - 143мм; 
-24р. - 150мм; 
-25р. - 157мм; 
-26р. - 164мм; 
-27р. - 170мм; 
-28р. - 176мм; 
-* Можлива похибка вимірювань довжини всередині взуття в межах +/-2мм в залежності від методу вимірювання.
- ]]>
-</g:description>
-<g:group>Взуття</g:group>
-<g:quantity>1</g:quantity>
-</item>
-</channel>
+ </channel>
 </rss>
